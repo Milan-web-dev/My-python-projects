@@ -1,4 +1,5 @@
 # Pygame template - skeleton for a new pygame project
+# Please note that you should be using Python 2.7 or higher
 import pygame
 import random
 
