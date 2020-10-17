@@ -18,7 +18,7 @@ BLUE = (0, 0, 255)
 pygame.init()
 pygame.mixer.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("My Game")
+pygame.display.set_caption("My Example Game Skeleton")
 clock = pygame.time.Clock()
 
 all_sprites = pygame.sprite.Group()
@@ -43,3 +43,4 @@ while running:
     pygame.display.flip()
 
 pygame.quit()
+#Quits the game
