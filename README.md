@@ -1,5 +1,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Milan-web-dev/My-python-projects)
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Milan-web-dev/My-python-projects)
+
 # My-python-projects
 
 Hi, I just started python. These are some of the python projects that I have done while learning more of python.
